@@ -20,7 +20,9 @@ pip install Numba
 
 # 📧 Контакты
 GitHub: h1zz-Huzler
+
 discord: h1zz
+
 Проект: ASCII-PIXEL-VIDEO
 # 🌟Поддержка
 Создайте Issue для багов и предложений
