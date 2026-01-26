@@ -3,6 +3,7 @@
 ![python](https://img.shields.io/badge/OpenCV-4.8.1-green.svg)
 ![python](https://img.shields.io/badge/Pygame-2.5.2-red.svg)
 ![python](https://img.shields.io/badge/Numba-0.58.1-orange.svg)
+
 Проект для преобразования видео в ASCII-АРТ в реальном времени
 
 # 🎥 Основные возможности
